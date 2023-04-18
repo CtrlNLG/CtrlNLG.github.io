@@ -1,2 +1,2 @@
-# CSRR Workshop
+# CtrlNLG Workshop
  
